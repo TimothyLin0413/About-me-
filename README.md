@@ -1,7 +1,13 @@
 # 💫 About Me:
-My name is Tzu-Yu Lin also go by Timothy Lin and I'm currently an undergraduate studying computer science at the University of California-Irvine.
+My name is Tzu-Yu Lin also go by Timothy Lin and I'm a graduate of the University of California-Irvine with a B.S. degree in Computer Science and a minor in Business Management.
 
-I'm currently working on a full-stack web application using Java and Dynamic HTML.<br>I'm looking to collaborate on any topics or projects that involve Project Management, Software Development, and Software Engineering. <br>I'm looking for help with learning new programming languages and management tools. <br>I'm currently learning Go and React. <br>I want to be a software project manager in the future!<br>Fun Fact: I love playing and watching sports, notably baseball, basketball and badminton (3Bs).<br>                 I believe technology will be more involved within the sports field either on the court or off the court in the future. 
+As a graduate of the University of California, Irvine, I have completed a bachelor's degree in Computer Science (Information Specialization) with a minor in Business Management. I am passionate about learning new programming languages, information, and technology, and I have developed skills in Python, Java, C++, and JavaScript through various courses and projects. <br>
+
+I have also gained valuable work experience as a student assistant at UC Irvine. During my tenure as a student assistant at UC Irvine, I excelled in organizing files and managing databases professionally. In addition, I interned previously as a software engineer at Veeva Systems, where I worked with a corporate-level codebase and developer utilities using Java and JavaScript. This experience equipped me with the ability to write clean, testable code while collaborating seamlessly with cross-functional teams. My work on audit expressions ensured the functionality of cloud-based features and products, showcasing my attention to detail, adherence to stringent standards, and quality assurance. <br>
+
+Through these roles, I have demonstrated fast learning, team cooperation, and problem-solving abilities, as well as communication and attention to detail skills. My goal is to leverage my education and experience to contribute to innovative and impactful solutions in the field of computer science. <br>
+
+I'm currently learning AWS, hoping to know more about cloud and networking.<br>I'm looking to collaborate on any topics or projects that involve Project Management, Software Development, and Software Engineering. <br>I'm also learning Go and React. <br>I want to be a software project manager in the future!<br>Fun Fact: I love playing and watching sports, notably baseball, basketball, and badminton (3Bs).<br>                 I believe technology will be more involved within the sports field either on the court or off the court in the future. 
 
 Feel free to reach out to me through any of my socials to talk about anything, to collaborate on a project, or to start something wonderful!
 
